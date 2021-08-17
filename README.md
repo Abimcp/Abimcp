@@ -5,12 +5,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimcp&layout=compact&theme=outrun)
 
-<!-- 
-let name;
-let occupation;
-let hobbies = [];
 
-💻 Techs, Languages & Tools I use
+let name = Abigail McLeod-Peck;
+let occupation = Trainee Fullstack Developer at Futureproof;
+let hobbies = [Reading, Baking, Gaming];
+
+<!-- 💻 Techs, Languages & Tools I use
 JS  HTML-5   CSS   Java   SQL   python   React   Express  nodejs   Jest 
 
 My most used languages👇
@@ -24,4 +24,4 @@ Abi's Langs Stats
 - 📫 How to reach me: ...
 - 😄 Pronouns: She / Her...
 - ⚡ Fun fact: ...
- -->
+ --> -->
