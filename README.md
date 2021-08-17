@@ -6,9 +6,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimcp&layout=compact&theme=outrun)
 
 
-let name = Abigail McLeod-Peck;
+<!-- let name = Abigail McLeod-Peck;
 let occupation = Trainee Fullstack Developer at Futureproof;
-let hobbies = [Reading, Baking, Gaming];
+let hobbies = [Reading, Baking, Gaming]; -->
 
 <!-- 💻 Techs, Languages & Tools I use
 JS  HTML-5   CSS   Java   SQL   python   React   Express  nodejs   Jest 
