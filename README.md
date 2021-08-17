@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-**Abimcp/Abimcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there 👋
 Abimcp's GitHub stats 
-[![Abimcp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abimcp)](https://github.com/Abimcp/github-readme-stats)
+[![Abimcp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abimcp&how_icons=true&theme=shades-of-purple)
+
 
 <!-- 
 let name;
