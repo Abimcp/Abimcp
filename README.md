@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Abi</h1>
+<h1 align="center">Hi 👋, I'm Abi</h1>
 <h3 align="center">A Trainee Fullstack Developer with Futureproof</h3>
 
 - 🌱 I’m currently learning **Databases, React, Python**
