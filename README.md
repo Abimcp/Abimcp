@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EAAA00&lines=Hi+%F0%9F%91%8B%2C+i'm+Abi!)](https://git.io/typing-svg)
-<h3 align="center">A Trainee Fullstack Developer with Futureproof</h3>
+<h3 >A Trainee Fullstack Developer with Futureproof</h3>
 
-- 🌱 I’m currently learning **SQL, React, Python**
+- 🌱 I’m currently learning **React, Python, Django, Flask**
 
-- ⚡ Fun fact **I am a trained Archaeologist**
+- ⚡ Fun fact **I am a Fully Trained Archaeologist and have excavated Roman Sites**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,10 +19,11 @@
 
 
 
-
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=abimcp&repo=partyzl&countColorcountColor&countColor=%237B1E7B"/>
 
 ![Abimcp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abimcp&how_icons=true&theme=shades-of-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimcp&layout=compact&theme=outrun)
+
 
 
