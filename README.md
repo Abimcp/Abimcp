@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EAAA00&lines=Hi+%F0%9F%91%8B%2C+i'm+Abi!)](https://git.io/typing-svg)
 <h3 >A Trainee Fullstack Developer with Futureproof</h3>
 
-- 🌱 I’m currently learning **React, Python, Django, Flask**
+- 🌱 I’m currently learning **React, Python, React Native**
 
 - ⚡ Fun fact **I am a Fully Trained Archaeologist and have excavated Roman Sites**
 
